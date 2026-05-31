@@ -1,10 +1,10 @@
-# ArMonitor | SP 🫁
+# ArMonitor | SP 
 
 O **ArMonitor** é uma plataforma web responsiva voltada para o monitoramento em tempo real, conscientização e mapeamento da qualidade do ar na região de São Paulo. O projeto conecta conceitos de tecnologia, impacto ambiental e saúde/nutrição humana, mostrando como os poluentes atmosféricos afetam o nosso organismo e quais defesas biológicas podemos fortalecer.
 
 ---
 
-## 🚀 Funcionalidades
+##  Funcionalidades
 
 *   **Mapeamento por Região:** Gráficos interativos e dinâmicos para visualização dos níveis de poluentes (Centro, Zona Leste, Zona Sul, Zona Norte e Zona Oeste).
 *   **Análise do Sistema Respiratório:** Explicação didática do processo de hematose (troca gasosa nos alvéolos) e identificação de grupos de maior risco.
@@ -13,7 +13,7 @@ O **ArMonitor** é uma plataforma web responsiva voltada para o monitoramento em
 
 ---
 
-## 📊 Poluentes Monitorados
+##  Poluentes Monitorados
 
 | Poluente | Sigla | Fonte Principal | Impacto Clínico |
 | :--- | :---: | :--- | :--- |
@@ -24,7 +24,7 @@ O **ArMonitor** é uma plataforma web responsiva voltada para o monitoramento em
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 *   **Front-End:** HTML5 (Semântico), CSS3 (Flexbox/Grid para Responsividade Mobile), JavaScript (ES6+ para manipulação dinâmica do DOM).
 *   **Hospedagem & Deploy:** Firebase Hosting.
@@ -32,7 +32,7 @@ O **ArMonitor** é uma plataforma web responsiva voltada para o monitoramento em
 
 ---
 
-## 🧑‍💻 Desenvolvedores
+##  Desenvolvedores
 
 *   **Pedro Yoshikado Garcia** - *Desenvolvimento, Infraestrutura e Mobile* - [LinkedIn](https://www.linkedin.com/in/pedro-yoshikado-garcia-a428642b7/)
 *   **Júlia Rodrigues da Silva** - *Pesquisa Acadêmica e Conteúdo de Saúde*
